@@ -1,3 +1,35 @@
-#Hello{
-    color : orange;
+
+
+/* Estilos Index */
+
+figure {
+    margin:0;
+}
+
+#login-facebook{
+    margin-top: 14%;
+    
+
+} 
+
+#logo-index{
+   
+    width: 50%;
+    margin-top: 39%;
+    margin-left: 22%;
+}
+
+#register{
+    margin: 12%;
+}
+
+#login-facebook{
+    width: 70%; 
+    padding-top: 10px; 
+    padding-bottom: 10px;
+    background-image: url(./images/logo_fb.png);
+    background-position: center;
+    background-size: 70px;
+    background-repeat: no-repeat;
+    margin-left: 15%;
 }
